@@ -108,7 +108,7 @@ int main() {
     // Declare object of type master
     Master master1;
     master1.setStudentNumber(54321);
-    master1.setStudentName("Alex Yang");
+    master1.setStudentName("Adnan Haneef");
     master1.setStudentAverage(90.0);
     master1.setLevel(2);
     master1.setYear(2023);
